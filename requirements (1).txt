@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-imbalanced-learn
-xgboost
-streamlit
-openpyxl
-scipy
